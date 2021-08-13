@@ -1,5 +1,5 @@
 # Spinner 구성하기
-### 1) Spinner린?
+### 1) Spinner란?
 - Spinner는 여러개의 값 중에서 하나를 선택할 수 있도록 해주는 위젯
 - array.xml을 만들어 spinner내부에 들어갈 내용을 적을 수 있음
 
